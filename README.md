@@ -1,5 +1,5 @@
-#DEVTSHAKE_cli
-* 🔱- طريقه تنصيب سورس DEVTSHAKE العربي -🔱
+
+* 🔱- طريقه تنصيب سورس DevABBAS_ALSAIDI العربي -🔱
 
 * 🔺- افتح ترمنال جديد وخلي🔧👇
 
@@ -11,11 +11,11 @@
 
 * 🔺- وراهه 👇
 
-* git clone https://github.com/moodlIMyIl/DEVTSHAKE.git
+* git clone https://github.com/ANONYMOUSE4/DevABBAS_ALSAIDI.git
 
 * 🔺- وراهه👇
 
-* cd DEVTSHAKE
+* cd DevABBAS_ALSAIDI
 
 * 🔺- وراهه👇
 
@@ -41,11 +41,11 @@
 
 * 🔺- بعد متسوي رن افتح ترمنال جديد واكتب 
 
-* cd DEVTSHAKE
+* cd DevABBAS_ALSAIDI
 
 * 🔺- انتر وبعدها هل امر 
 
-* bash DEVTSHAKE.sh -t
+* bash DevABBAS_ALSAIDI.sh -t
 
 * 🔺- انتظر 5 ثواني يشتغل بوت 
 
@@ -53,14 +53,5 @@
 
 * 🔺-----------------------------🔺
 
-* by :- @lIMyIl 
+* by :- @Abbas9_9 
 
-* by :- @IXX_I_XXI
-
-* by :- @h_k_a 
-
-* by :- @Aram_omar22 
-
-* by :- @li_XxX_il
-
-* 🔺-----------------------------🔺
