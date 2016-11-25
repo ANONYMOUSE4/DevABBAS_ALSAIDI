@@ -5,7 +5,7 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=DEVTSHAKE # You can put here other bots. Also you can change it to run more than one bot in the same server.
+BOT=DEVABBAS # You can put here other bots. Also you can change it to run more than one bot in the same server.
 RELOADTIME=5  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
 
 
@@ -25,22 +25,17 @@ rst=$'\e[0m'
 
 cat << EOF
 
- $f1   _____    _        _    _    _____    
- $f1  |_   _|__| |__    / \  | | _| ____|   Dev @Abbas9_9 
- $f1    | |/ __| '_ \  / _ \ | |/ /  _|     
- $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Abbas9_9 
- $f1    |_||___/_| |_/_/   \_\_|\_\_____|   
- 
+ $f1   Dev @Abbas9_9 
+ $f1   Dev @Abbas9_9 
+
 EOF
-echo -e "               \e[100m                TSHAKE script            \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @lTSHAKEl_CH          \e[00;37;40m"
+echo -e "               \e[100m                ABBAS script            \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @ABB_96          \e[00;37;40m"
 echo ""
 cat << EOF
- $f1   _____    _        _    _    _____    
- $f1  |_   _|__| |__    / \  | | _| ____|   Dev @Abbas9_9 
- $f1    | |/ __| '_ \  / _ \ | |/ /  _|     
- $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Abbas9_9 
- $f1    |_||___/_| |_/_/   \_\_|\_\_____|   
+ $f1   Dev @Abbas9_9 
+ $f1   Dev @Abbas9_9 
+  
 EOF
 
 sleep 1.2
@@ -185,22 +180,17 @@ rst=$'\e[0m'
 
 cat << EOF
 
- $f1   _____    _        _    _    _____    
- $f1  |_   _|__| |__    / \  | | _| ____|   Dev @Abbas9_9 
- $f1    | |/ __| '_ \  / _ \ | |/ /  _|     
- $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Abbas9_9 
- $f1    |_||___/_| |_/_/   \_\_|\_\_____|   
- 
+ $f1  Dev @Abbas9_9 
+ $f1  Dev @Abbas9_9 
+
 EOF
-echo -e "                \e[100m                TSHAKE script           \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @lTSHAKEl_CH  \e[00;37;40m"
+echo -e "                \e[100m                ABBAS script           \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @ABB_96  \e[00;37;40m"
 echo ""
 cat << EOF
- $f1   _____    _        _    _    _____    
- $f1  |_   _|__| |__    / \  | | _| ____|   Dev @Abbas9_9 
- $f1    | |/ __| '_ \  / _ \ | |/ /  _|     
- $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Abbas9_9 
- $f1    |_||___/_| |_/_/   \_\_|\_\_____|   
+ $f1  Dev @Abbas9_9 
+ $f1  Dev @Abbas9_9 
+
 EOF
 
 sleep 1.3
