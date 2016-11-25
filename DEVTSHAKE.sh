@@ -5,7 +5,7 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=DEVABBAS # You can put here other bots. Also you can change it to run more than one bot in the same server.
+BOT=DEVTSHAKE # You can put here other bots. Also you can change it to run more than one bot in the same server.
 RELOADTIME=5  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
 
 
@@ -25,17 +25,22 @@ rst=$'\e[0m'
 
 cat << EOF
 
- $f1   Dev @Abbas9_9 
- $f1   Dev @Abbas9_9 
-
+ $f1   _____    _        _    _    _____    Dev @lIMyIl 
+ $f1  |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
+ $f1    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
+ $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
+ $f1    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+ 
 EOF
-echo -e "               \e[100m                ABBAS script            \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @ABB_96          \e[00;37;40m"
+echo -e "               \e[100m                TSHAKE script            \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @lTSHAKEl_CH          \e[00;37;40m"
 echo ""
 cat << EOF
- $f1   Dev @Abbas9_9 
- $f1   Dev @Abbas9_9 
-  
+ $f1   _____    _        _    _    _____    Dev @lIMyIl 
+ $f1  |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
+ $f1    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
+ $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
+ $f1    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
 EOF
 
 sleep 1.2
@@ -54,12 +59,12 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m             CH  :                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                  \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                      \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                       \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV :                                 \033[0;00m"
+echo -e "\033[38;5;208m             CH  : @lTSHAKEl_CH                               \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @lIMyIl                  \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @li_XxX_il                      \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @h_k_a                       \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @Aram_omar22                                \033[0;00m"
+echo -e "\033[38;5;208m             DEV : @IXX_I_XXI                                \033[0;00m"
 
 sleep 1.5
 echo -e "$bld$f4 CHECKING PROCESSES...$rst"
@@ -180,17 +185,22 @@ rst=$'\e[0m'
 
 cat << EOF
 
- $f1  Dev @Abbas9_9 
- $f1  Dev @Abbas9_9 
-
+ $f1   _____    _        _    _    _____    Dev @lIMyIl 
+ $f1  |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
+ $f1    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
+ $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
+ $f1    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
+ 
 EOF
-echo -e "                \e[100m                ABBAS script           \e[00;37;40m"
-echo -e "               \e[01;34m              CH > @ABB_96  \e[00;37;40m"
+echo -e "                \e[100m                TSHAKE script           \e[00;37;40m"
+echo -e "               \e[01;34m              CH > @lTSHAKEl_CH  \e[00;37;40m"
 echo ""
 cat << EOF
- $f1  Dev @Abbas9_9 
- $f1  Dev @Abbas9_9 
-
+ $f1   _____    _        _    _    _____    Dev @lIMyIl 
+ $f1  |_   _|__| |__    / \  | | _| ____|   Dev @li_XxX_il
+ $f1    | |/ __| '_ \  / _ \ | |/ /  _|     Dev @h_k_a
+ $f1    | |\__ \ | | |/ ___ \|   <| |___    Dev @Aram_omar22
+ $f1    |_||___/_| |_/_/   \_\_|\_\_____|   Dev @IXX_I_XXI
 EOF
 
 sleep 1.3
@@ -209,12 +219,12 @@ sleep 0.5
 
 
 echo ""
-echo -e "\033[38;5;208m             CH  :                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                  \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                      \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                       \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV :                                 \033[0;00m"
+echo -e "\033[38;5;208m       CH  : @lTSHAKEl_CH                                     \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @lIMyIl                            \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @li_XxX_il                         \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @h_k_a    \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @Aram_omar22                                      \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @IXX_I_XXI                                      \033[0;00m"
 
 # Starting preliminar setup
 sleep 1.5
@@ -496,14 +506,12 @@ while getopts ":tsTSih" opt; do
 	echo "steady.sh bash script v1.2 iicc 2016 DBTeam" >&2
 	echo ""
 	echo -e "\e[0m"
+echo -e "\033[38;5;208m       DEV : @lIMyIl                            \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @li_XxX_il                         \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @h_k_a                         \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @Aram_omar22                                      \033[0;00m"
+echo -e "\033[38;5;208m       DEV : @IXX_I_XXI                                      \033[0;00m"
 echo ""
-echo -e "\033[38;5;208m             CH  :                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                  \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                      \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                       \033[0;00m"
-echo -e "\033[38;5;208m             DEV : @Abbas9_9                                \033[0;00m"
-echo -e "\033[38;5;208m             DEV :                                 \033[0;00m"
-
 	exit 1
       ;;
 	h)
