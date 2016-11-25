@@ -1,6 +1,6 @@
 #!/bin/bash
-#Script to fix config.lua By @Abbas
-
+#Script to fix config.lua By @iicc1
+#DBTeam
 
 CONF=data/config.lua
 CONF2=data/config2.lua
